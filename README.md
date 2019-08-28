@@ -19,6 +19,15 @@ pip install requirements.txt
 
 In order for governments and organizations to properly work towards maximizing happiness for individuals, they need to know what are the most important factors that drive happiness. This analysis attempts to be a jumping off point.
 
+## Summary 
+
+**Following factors were shown not to be significant in this analysis**:
+Individuals Using Internet Per 100, Democracy Score, Religion Importance, Freedom Of Press, Median Age
+
+**Following factors were shown to be significant in this analysis**:
+GDP Per Capita, Infant Mortality Rate Per 1000, Unemployment Percent, Full Democracy (categorical variable)
+
+
 ## Files
 Happiness Final.ipynb - The jupyter notebook containing the analysis. Including preprocessing, data exploration, modeling, and validation of linear regression assumptions.
 
